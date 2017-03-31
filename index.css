@@ -1,0 +1,190 @@
+
+h1{
+    font-family: serif;
+    margin-left:900px;
+    color:#434547;
+    margin-top: 0px;
+    text-decoration: none;
+}
+
+
+img {
+    width: 1175px;
+    height: 700px;
+    border: 10px solid #e0e0eb;
+    margin: -10px -10px 10px 0px;
+    display:block;
+}
+
+h2{
+    margin-top: 75px;
+    margin-left: 575px;
+    font-size: 30px;
+    color:#434547;
+}
+
+#me {
+    border:5px solid #e0e0eb;
+    border-radius:100%;
+    height: 200px;
+    width: 200px;
+    display: inline-block;
+    margin-left:50px;
+    margin-top: 15px;
+}
+
+.openingParagraph {
+    font-size: 21px;
+    font-style:monospace;
+    margin: -210px 60px 230px 340px;
+    color:#434547;
+    
+}
+
+div p {
+    font-size: 40px;
+    margin-left:350px;
+    margin-top: -60px;
+    font-style: sans-serif;
+}
+
+
+table {
+    margin-top: 0px;
+    
+    
+}
+
+td {
+    color: white;
+    font-size: 36px;
+    font-style: garamond, sans-serif;
+}
+
+.HTML {
+    background-color:#FF0000;
+    height: 110px;
+    width: 400px;
+    margin: 0px -20px 0px -20px;
+    display: inline-block;
+    border: 20px solid white;
+}
+
+
+.CSS {
+    background-color:#0000FF ;
+    height: 110px;
+    width: 400px;
+    margin: 0px 0px 0px 0px;
+    display: inline-block;
+    border: 20px solid white;
+}
+
+.PHP {
+    background-color:#E2BE22;
+    height: 110px;
+    width: 400px;
+    margin: 0px -40px 0px 0px;
+    display: inline-block;
+    border: 20px solid white;
+}
+
+/*.Javascript {
+    background-color:purple ;
+    height: 100px;
+    width: 400px;
+    border-radius:30%;
+    margin: 0px 0px 0px 0px;
+    display: inline-block;
+}
+
+.jQuery {
+    background-color:blue ;
+    height: 100px;
+    width: 400px;
+    border-radius:30%;
+    margin: 0px 0px 0px 0px;
+    display: inline-block;
+}
+
+.AngularJS{
+    background-color:green;
+    height: 100px;
+    width: 400px;
+    border-radius:30%;
+    margin: 0px 0px 0px 0px;
+    display: inline-block;
+}
+
+.Python {
+    background-color:purple ;
+    height: 100px;
+    width: 400px;
+    border-radius:30%;
+    margin: 0px 0px 0px 0px;
+    display: inline-block;
+}
+
+.Java {
+    background-color:blue ;
+    height: 100px;
+    width: 400px;
+    border-radius:30%;
+    margin: 0px 0px 0px 0px;
+    display: inline-block;
+}
+
+.SQL {
+    background-color: green;
+    height: 100px;
+    width: 400px;
+    border-radius:30%;
+    margin: 0px 0px 0px 0px;
+    display: inline-block;
+}
+
+.RaspberryPI{
+    background-color:red ;
+    height: 100px;
+    width: 400px;
+    border-radius:30%;
+    margin: 0px 0px 0px 0px;
+    display: inline-block;
+}
+
+.Software {
+    background-color:orange ;
+    height: 100px;
+    width: 400px;
+    border-radius:30%;
+    margin: 0px 0px 0px 0px;
+    display: inline-block;
+}
+
+.Hardware {
+    background-color:yellow ;
+    height: 100px;
+    width: 400px;
+    border-radius:30%;
+    margin: 0px 0px 0px 0px;
+    display: inline-block;
+}
+ 
+ */
+
+.buttonText {
+    font-style: Garamond;
+    margin: 30px 120px 20px 135px;
+}
+
+#HTML{
+    color:white;
+}
+
+#CSS{
+    margin: 30px 120px 20px 155px;
+}
+
+#PHP{
+    margin: 30px 120px 20px 150px;
+}

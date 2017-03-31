@@ -1,0 +1,26 @@
+h1{
+    font-family: serif;
+    margin-left:900px;
+    color:#434547;
+    margin-top: 0px;
+}
+
+img {
+    width: 1175px;
+    height: 650px;
+    border: 10px solid #e0e0eb;
+    margin: -10px -10px 0px 0px;
+    display:block;
+}
+
+h2{
+    margin-top: 10px;
+    margin-left: 525px;
+    font-size: 30px;
+}
+
+p{
+    margin:0px 50px 0px 50px;
+    font-size: 18px;
+    
+}
